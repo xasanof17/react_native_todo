@@ -16,7 +16,7 @@ In the project directory, you can run:
 
 - **Metro Bundler** is created *QR_CODE* to you see this. 
    > Do you want to see this project on your mobile ? So you must install mobile app [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=ru&gl=US) 
-	> You see this project on your device **iOS** or **Android**, or on Metro Bundler **website**
+> You see this project on your device **iOS** or **Android**, or on Metro Bundler **website**	
 
 
 ![image](./assets/metrobundler.png)
